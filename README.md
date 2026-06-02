@@ -14,6 +14,8 @@ The forked source codes of the coding agents we used to run SWE-bench-Live are a
 
 [ClaudeCode](https://github.com/njukenanli/ClaudeCode-for-eval)
 
+[Win-Agent](https://github.com/njukenanli/Win-Agent) (for windows tasks)
+
 ## Submitting Instructions
 
 If you want to submit the evaluation result of your model-agent combinations on SWE-bench-Live, please follow the steps below.
