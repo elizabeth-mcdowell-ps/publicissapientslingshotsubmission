@@ -1,5 +1,6 @@
 # MIT-IBM Agent + SWE-Agent + Seed-OSS-36B
 
+- Paper: https://arxiv.org/pdf/2512.23631
 - Date: 2025-12-21
 
 - SWE-agent settings:
