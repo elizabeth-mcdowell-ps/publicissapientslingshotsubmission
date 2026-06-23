@@ -14,4 +14,3 @@ The agent uses a multi-turn conversational approach with the following capabilit
    - **How Results were sampled:** Greedy decoding (deterministic, no temperature-based sampling)
    - **Number of Iterations:** Variable per issue (agent continues until solution or timeout)
 
-
