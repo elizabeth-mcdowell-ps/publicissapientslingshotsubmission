@@ -1,7 +1,7 @@
-# Sapient Slingshot + Claude 4.5 Sonnet
+# Sapient Slingshot + Claude-4.5 Sonnet
 
-Slingshot version: 2.6.0
-Model: Claude 4.5 Sonnet
+Sapient Slingshot version: 2.6.0
+Model: Claude-4.5 Sonnet
 1 of 1 results
 Agent Scaffold
 
